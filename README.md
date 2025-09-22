@@ -75,7 +75,7 @@ Every cryptocurrency node has specific hardware requirements:
 
 4. Paste the SSH command into PowerShell and press Enter
 5. Write ``yes`` and `Enter` to add to the list of known hosts
-6. It will ask for Passpharse, Just ``Enter`` again
+6. It will ask for Passpharse, Just ``Enter`` again to leave it empty
 7. You'll see a connection confirmation, indicating successful access to your remote instance
 ### Connection confirmation
    <img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/9c09a1d5-b735-4234-8926-4b6b0eca4883" />
